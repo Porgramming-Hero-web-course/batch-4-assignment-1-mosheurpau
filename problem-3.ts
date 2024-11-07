@@ -17,7 +17,7 @@
         return count;
     };
 
-    let result = countWordOccurrences("TypeScript is great. I love TypeScript!", "typescript");
+    let result = countWordOccurrences("I love typescript", "typescript");
 
     console.log(result);
 
